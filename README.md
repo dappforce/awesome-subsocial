@@ -68,36 +68,42 @@ Subdot is a decentralized social media platform powered by Substrate and Subsoci
 It provides a reputation & ranking feature based on your engagement over the social network.
 
 GitHub: https://github.com/its-me-sv/subdot-frontend
+
 Built by: [Suraj Vijay](https://github.com/its-me-sv)
 
 #### [Queers](https://quereers.netlify.app/)
 Quereers is inspired by social platforms like Quora, WikiHow, and Stack Exchanges and it’s also partly influenced by the Subsocial track challenges. Quereers is from the word Query and it’s a social platform where users get rewarded for sharing their knowledge.
 
 GitHub: https://github.com/bolajahmad/quereers
+
 Built by: [Bolaji Ahmad](https://github.com/its-me-sv)
 
 #### [Substrate Stack Exchange](https://substrate-stackexchange.vercel.app)
 A decentralized forum for developers Q&A regarding substrate development, made on top of Subsocial parachain.
 
 GitHub: https://github.com/teodorus-nathaniel/substrate-stackexchange
+
 Built by: [Teodorus Nathaniel Kurniawan](https://github.com/teodorus-nathaniel)
 
 #### [PAX](https://pax.vercel.app)
 Decentralized Instagram for Creators
 
 GitHub: https://github.com/abdul-kabugu/subsocial-react-example
+
 Built by: [Abdul Kabugu](https://github.com/abdul-kabugu)
 
 #### [Polkadot Arena Blog](https://www.polkadotarena.blog)
 Polkadot Arena is an Italian-language divulgation project on the Polkadot and Kusama ecosystem.
 
 GitHub: https://github.com/MarcooRo/polkadot-arena-blog
+
 Built by: [Marco](https://github.com/MarcooRo)
 
 #### [Polkaverse](https://www.polkadotarena.blog)
 PThe #1 decentralized social network for Polkadot and Kusama. Build and own your Web3 network and track the latest updates from the Dotsama ecosystem today!
 
 GitHub: https://github.com/dappforce/polkaverse
+
 Built by: Subsocial Team
 
 ## Social Protocols
@@ -108,18 +114,21 @@ AmazingGreen is a platform that empowers your community to take more control ove
 It's using Subsocial for social & communication features to enable good engagement and planning for the cause.
 
 GitHub: https://github.com/457ksnider/AmazingGreen
+
 Built by: [457ksnider](https://github.com/457ksnider)
 
 #### [Admeta](https://testapp.subsocial.admeta.network/)
 AdMeta is a Web3 advertising protocol, completely designed and customized for Web3.  In this project we integrate AdMeta with Subsocial to enable content monetization easily.
 
 GitHub: https://github.com/AdMetaNetwork/subsocial-admeta-integration
+
 Built by: Han Zhao
 
 #### [SOS Help App](https://testapp.subsocial.admeta.network/)
 This app can help find essential resources during any disaster using the posts made by the social media users.
 
 GitHub: https://github.com/mashrin/polkadot-hackathon
+
 Built by: Mashrin Srivastava,  Maansi Srivastava
 
 ## Tools
@@ -128,12 +137,14 @@ Built by: Mashrin Srivastava,  Maansi Srivastava
 Subsocial Ghost / Gatsby plugin allows people to backup their articles on Subsocial network very easily by setting up a simple config file in the project.
 
 GitHub: https://github.com/huascarmm/subsocial-gatsby-example
+
 Built by: [Huascarm](https://github.com/huascarmm)
 
 #### [SubTwit](https://sub-twit.vercel.app/)
 SubTwit is a backend service that runs continously to backup a list of selected creators tweets on Subsocial Blockchain.
 
 GitHub: https://bitbucket.org/archsharma655/sub-twit-server/src/main/
+
 Built by: Archi Sharma
 
 #### [ComposeR](https://www.youtube.com/watch?v=Y3zLnur7mUU)
@@ -145,6 +156,7 @@ Built by: [Gratiam](https://github.com/abdul-kabugu)
 Back up your Twitter content using Subsocial, a decentralized Web3 social networking platform. Take ownership of your tweets by putting them on the blockchain.
 
 GitHub: https://github.com/dappforce/post4ever
+
 Built by: Subsocial Team
 
 ## Partnerships / Integrations
@@ -153,6 +165,7 @@ Built by: Subsocial Team
 AirLyft is the first ever multichain decentralized growth hacking platform that helps build, scale, and engage with community in a legitimate manner. 
 
 GitHub: https://github.com/Kyte-Research/
+
 Built by: [Chandra Bhushan Singh](https://github.com/huascarmm)
 
 ## Examples
@@ -161,6 +174,7 @@ Built by: [Chandra Bhushan Singh](https://github.com/huascarmm)
 Decentralized Twitter app built in 50 minutes during a webinar.
 
 GitHub: https://github.com/dappforce/twitter-example
+
 Built by: Subsocial Team
 
 
