@@ -19,18 +19,20 @@
 
 ## Awesome Apps Built on Subsocial
 
-Subsocial is a set of Substrate pallets that allows anyone to launch their own decentralized censorship-resistant social network. The Subsocial SDK is a set of developments tools (methods, functions, and so on) that allows you to create your own social network on Subsocial.
+Subsocial is a Substrate-based blockchain that allows anyone to launch their own decentralized censorship-resistant social network. The Subsocial SDK is a set of developments tools (methods, functions, and so on) that allows you to create your own social network on Subsocial.
 
 If you want to build a new Dapp check the following links:
 - [Documentation](https://docs.subsocial.network)
 - [SDK Playground](https://play.subsocial.network)
 - [Developer QuickStart Guide](https://docs.subsocial.network/docs/develop/developer-quickstart)
+- [Subsocial JS SDK](https://github.com/dappforce/subsocial-js)
 
 This is a list of awesome apps built on top of Subsocial architecture, a decentralized social  platform for building Web 3.0 applications. 
 
 ### Contents
 
 #### Social Networks
+- [Grill Chat](#grill-chat)
 - [Frentube](#FrenTube)
 - [SubDot](#subdot)
 - [Queers](#queers)
@@ -58,122 +60,128 @@ This is a list of awesome apps built on top of Subsocial architecture, a decentr
 
 ## Social Networks
 
-#### [FrenTube](https://poltube.vercel.app)
+### [Grill Chat](https://x.grill.chat/)
+Chat anonymously on-chain without wallets utilizing our censorship-resistant blockchain and app with anonymous logins.
+
+Source Code: [GitHub](https://github.com/dappforce/grillchat)
+Built by: Subsocial Team
+
+### [FrenTube](https://poltube.vercel.app)
 A decentralized Video-sharing platform, that values privacy and content ownership.
-GitHub: https://github.com/abdul-kabugu/poltube
+Source Code: [GitHub](https://github.com/abdul-kabugu/poltube)
 Built by: [Abdul Kabugu](https://github.com/abdul-kabugu)
 
-#### [SubDot](https://subdot.netlify.app)
+### [SubDot](https://subdot.netlify.app)
 Subdot is a decentralized social media platform powered by Substrate and Subsocial that provides users with complete control over their data and content. By removing a central authority, the platform allows users to participate in decision-making, governance, and rewards for their contributions. 
 It provides a reputation & ranking feature based on your engagement over the social network.
 
-GitHub: https://github.com/its-me-sv/subdot-frontend
+Source Code: [GitHub](https://github.com/its-me-sv/subdot-frontend)
 
 Built by: [Suraj Vijay](https://github.com/its-me-sv)
 
-#### [Queers](https://quereers.netlify.app/)
+### [Queers](https://quereers.netlify.app/)
 Quereers is inspired by social platforms like Quora, WikiHow, and Stack Exchanges and it’s also partly influenced by the Subsocial track challenges. Quereers is from the word Query and it’s a social platform where users get rewarded for sharing their knowledge.
 
-GitHub: https://github.com/bolajahmad/quereers
+Source Code: [GitHub](https://github.com/bolajahmad/quereers)
 
 Built by: [Bolaji Ahmad](https://github.com/its-me-sv)
 
-#### [Substrate Stack Exchange](https://substrate-stackexchange.vercel.app)
+### [Substrate Stack Exchange](https://substrate-stackexchange.vercel.app)
 A decentralized forum for developers Q&A regarding substrate development, made on top of Subsocial parachain.
 
-GitHub: https://github.com/teodorus-nathaniel/substrate-stackexchange
+Source Code: [GitHub](https://github.com/teodorus-nathaniel/)substrate-stackexchange
 
 Built by: [Teodorus Nathaniel Kurniawan](https://github.com/teodorus-nathaniel)
 
-#### [PAX](https://pax.vercel.app)
+### [PAX](https://pax.vercel.app)
 Decentralized Instagram for Creators
 
-GitHub: https://github.com/abdul-kabugu/subsocial-react-example
+Source Code: [GitHub](https://github.com/abdul-kabugu/subsocial-react-example)
 
 Built by: [Abdul Kabugu](https://github.com/abdul-kabugu)
 
-#### [Polkadot Arena Blog](https://www.polkadotarena.blog)
+### [Polkadot Arena Blog](https://www.polkadotarena.blog)
 Polkadot Arena is an Italian-language divulgation project on the Polkadot and Kusama ecosystem.
 
-GitHub: https://github.com/MarcooRo/polkadot-arena-blog
+Source Code: [GitHub](https://github.com/MarcooRo/polkadot-arena-blog)
 
 Built by: [Marco](https://github.com/MarcooRo)
 
-#### [Polkaverse](https://www.polkadotarena.blog)
-PThe #1 decentralized social network for Polkadot and Kusama. Build and own your Web3 network and track the latest updates from the Dotsama ecosystem today!
+### [Polkaverse](https://www.polkadotarena.blog)
+The #1 decentralized social network for Polkadot and Kusama. Build and own your Web3 network and track the latest updates from the Dotsama ecosystem today!
 
-GitHub: https://github.com/dappforce/polkaverse
+Source Code: [GitHub](https://github.com/dappforce/polkaverse)
 
 Built by: Subsocial Team
 
 ## Social Protocols
 
-#### [Amazing Green](https://amazing-green-polkadot.vercel.app/)
+### [Amazing Green](https://amazing-green-polkadot.vercel.app/)
 AmazingGreen is a platform that empowers your community to take more control over the issues that affect you. Join AmazingGreen and read about the goals for your community and the funds that are available to reach these goals. You can add your own ideas or vote on the ideas of your neighbors. The most popular solutions will be implemented, benefitting the whole community. AmazingGreen gives everybody a vote and a voice.
 
 It's using Subsocial for social & communication features to enable good engagement and planning for the cause.
 
-GitHub: https://github.com/457ksnider/AmazingGreen
+Source Code: [GitHub](https://github.com/457ksnider/AmazingGreen)
 
 Built by: [457ksnider](https://github.com/457ksnider)
 
-#### [Admeta](https://testapp.subsocial.admeta.network/)
+### [Admeta](https://testapp.subsocial.admeta.network/)
 AdMeta is a Web3 advertising protocol, completely designed and customized for Web3.  In this project we integrate AdMeta with Subsocial to enable content monetization easily.
 
-GitHub: https://github.com/AdMetaNetwork/subsocial-admeta-integration
+Source Code: [GitHub](https://github.com/AdMetaNetwork/)subsocial-admeta-integration
 
 Built by: Han Zhao
 
-#### [SOS Help App](https://testapp.subsocial.admeta.network/)
+### [SOS Help App](https://testapp.subsocial.admeta.network/)
 This app can help find essential resources during any disaster using the posts made by the social media users.
 
-GitHub: https://github.com/mashrin/polkadot-hackathon
+Source Code: [GitHub](https://github.com/mashrin/polkadot-hackathon)
 
 Built by: Mashrin Srivastava,  Maansi Srivastava
 
 ## Tools
 
-#### [Subsocial Ghost - Gatsby Plugin](https://github.com/huascarmm/subsocial-gatsby-example)
+### [Subsocial Ghost - Gatsby Plugin](https://github.com/huascarmm/subsocial-gatsby-example)
 Subsocial Ghost / Gatsby plugin allows people to backup their articles on Subsocial network very easily by setting up a simple config file in the project.
 
-GitHub: https://github.com/huascarmm/subsocial-gatsby-example
+Source Code: [GitHub](https://github.com/huascarmm/subsocial-gatsby-example)
 
 Built by: [Huascarm](https://github.com/huascarmm)
 
-#### [SubTwit](https://sub-twit.vercel.app/)
+### [SubTwit](https://sub-twit.vercel.app/)
 SubTwit is a backend service that runs continously to backup a list of selected creators tweets on Subsocial Blockchain.
 
-GitHub: https://bitbucket.org/archsharma655/sub-twit-server/src/main/
+Source Code: [GitHub](https://bitbucket.org/archsharma655/sub-twit-server/src/)main/
 
 Built by: Archi Sharma
 
-#### [ComposeR](https://www.youtube.com/watch?v=Y3zLnur7mUU)
+### [ComposeR](https://www.youtube.com/watch?v=Y3zLnur7mUU)
 Cross posting tweets by link to Subsocial
 
 Built by: [Gratiam](https://github.com/abdul-kabugu)
 
-#### [Post4Ever](https://post4ever.app/)
+### [Post4Ever](https://post4ever.app/)
 Back up your Twitter content using Subsocial, a decentralized Web3 social networking platform. Take ownership of your tweets by putting them on the blockchain.
 
-GitHub: https://github.com/dappforce/post4ever
+Source Code: [GitHub](https://github.com/dappforce/post4ever)
 
 Built by: Subsocial Team
 
 ## Partnerships / Integrations
 
-#### [AirLyft](https://airlyft.one)
+### [AirLyft](https://airlyft.one)
 AirLyft is the first ever multichain decentralized growth hacking platform that helps build, scale, and engage with community in a legitimate manner. 
 
-GitHub: https://github.com/Kyte-Research/
+Source Code: [GitHub](https://github.com/Kyte-Research/)
 
 Built by: [Chandra Bhushan Singh](https://github.com/huascarmm)
 
 ## Examples
 
-#### [Twitter Dapp](https://www.youtube.com/watch?v=jeTrpltqAqc&list=LL&index=187)
+### [Twitter Dapp](https://www.youtube.com/watch?v=jeTrpltqAqc&list=LL&index=187)
 Decentralized Twitter app built in 50 minutes during a webinar.
 
-GitHub: https://github.com/dappforce/twitter-example
+Source Code: [GitHub](https://github.com/dappforce/twitter-example)
 
 Built by: Subsocial Team
 
