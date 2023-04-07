@@ -27,6 +27,10 @@ If you want to build a new Dapp check the following links:
 - [Developer QuickStart Guide](https://docs.subsocial.network/docs/develop/developer-quickstart)
 - [Subsocial JS SDK](https://github.com/dappforce/subsocial-js)
 
+For Dev Support:
+- [Developers Chat](https://t.me/+ZzvLu0ZfkQwxNGQy)
+- [Stack Exchange](https://substrate.stackexchange.com/questions/tagged/subsocial)
+
 This is a list of awesome apps built on top of Subsocial architecture, a decentralized social  platform for building Web 3.0 applications. 
 
 ### Contents
@@ -47,6 +51,7 @@ This is a list of awesome apps built on top of Subsocial architecture, a decentr
 - [SOS Help App](#sos-help-app)
 
 #### Tools
+- [Sub ID](#sub-id)
 - [Subsocial Ghost - Gatsby Plugin](#subsocial-ghost---gatsby-plugin)
 - [Subtwit](#subtwit)
 - [ComposeR](#composer)
@@ -64,11 +69,14 @@ This is a list of awesome apps built on top of Subsocial architecture, a decentr
 Chat anonymously on-chain without wallets utilizing our censorship-resistant blockchain and app with anonymous logins.
 
 Source Code: [GitHub](https://github.com/dappforce/grillchat)
+
 Built by: Subsocial Team
 
 ### [FrenTube](https://poltube.vercel.app)
 A decentralized Video-sharing platform, that values privacy and content ownership.
+
 Source Code: [GitHub](https://github.com/abdul-kabugu/poltube)
+
 Built by: [Abdul Kabugu](https://github.com/abdul-kabugu)
 
 ### [SubDot](https://subdot.netlify.app)
@@ -140,6 +148,13 @@ Source Code: [GitHub](https://github.com/mashrin/polkadot-hackathon)
 Built by: Mashrin Srivastava,  Maansi Srivastava
 
 ## Tools
+
+### [Sub ID](https://sub.id)
+Wallet info for your favourite Dotsama cryptocurrencies like Polkadot (DOT), Kusama (KSM), Moonbeam (GLMR), Astar (ASTR), Acala (ACA), Subsocial (SUB), and other Substrate chains in the ecosystem.
+
+Source Code: [GitHub](https://github.com/dappforce/subid)
+
+Built By: Subsocial Team
 
 ### [Subsocial Ghost - Gatsby Plugin](https://github.com/huascarmm/subsocial-gatsby-example)
 Subsocial Ghost / Gatsby plugin allows people to backup their articles on Subsocial network very easily by setting up a simple config file in the project.
