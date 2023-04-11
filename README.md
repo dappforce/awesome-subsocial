@@ -51,7 +51,7 @@ The following is a list of awesome apps built on top of the Subsocial protocol.
 - [SOS Help App](#sos-help-app)
 
 #### Tools
-- [Sub ID](#sub-id)
+- [Sub.ID](#sub-id)
 - [Subsocial Ghost - A Gatsby Plugin](#subsocial-ghost---gatsby-plugin)
 - [Subtwit](#subtwit)
 - [ComposeR](#composer)
