@@ -147,7 +147,7 @@ Source Code: [GitHub](https://github.com/AdMetaNetwork/subsocial-admeta-integrat
 
 Built by: [Han Zhao](https://github.com/h4n0)
 
-### [SOS Help App](https://testapp.subsocial.admeta.network/)
+### [SOS Help App](https://polkadot-hackathon-eywzsv6n9-mashrin.vercel.app/)
 This app can help find essential resources during any disaster using the posts made by the social media users.
 
 Source Code: [GitHub](https://github.com/mashrin/polkadot-hackathon)
