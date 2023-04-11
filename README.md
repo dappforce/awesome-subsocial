@@ -117,7 +117,7 @@ Source Code: [GitHub](https://github.com/MarcooRo/polkadot-arena-blog)
 
 Built by: [Marco](https://github.com/MarcooRo)
 
-### [Polkaverse](https://www.polkadotarena.blog)
+### [Polkaverse](https://www.polkaverse.com)
 The #1 decentralized social network in the Polkadot and Kusama ecosystem, created by the Subsocial team as a reference implementation for the Subsocial protocol. 
 Build and own your Web3 network and keep up to date with the latest news from the ecosystem today!
 
