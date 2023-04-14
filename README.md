@@ -36,23 +36,23 @@ The following is a list of awesome apps built on top of the Subsocial protocol.
 ### Contents
 
 #### Social Networks
-- [Grill.chat](#grill-chat)
-- [Frentube](#FrenTube)
+- [Grill.chat](#grillchat)
+- [Frentube](#frentube)
 - [SubDot](#subdot)
-- [Quereers](#queers)
+- [Quereers](#quereers)
 - [Substrate Stack Exchange](#substrate-stack-exchange)
 - [PAX](#pax)
 - [Polkadot Arena Blog](#polkadot-arena-blog)
 - [Polkaverse](#polkaverse)
 
 #### Social Protocols
-- [AmazingGreen](#amazing-green)
+- [AmazingGreen](#amazinggreen)
 - [AdMeta](#admeta)
 - [SOS Help App](#sos-help-app)
 
 #### Tools
-- [Sub.ID](#sub-id)
-- [Subsocial Ghost - A Gatsby Plugin](#subsocial-ghost---gatsby-plugin)
+- [Sub.ID](#subid)
+- [Subsocial Ghost - A Gatsby Plugin](#subsocial-ghost---a-gatsby-plugin)
 - [Subtwit](#subtwit)
 - [ComposeR](#composer)
 - [Post4Ever](#post4ever)
