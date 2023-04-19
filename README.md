@@ -1,23 +1,7 @@
 <div align="center">
   <img alt="Subsocial logo" src="./icons/logo.svg" width="250" >
   <h1 align="center">Awesome Apps Built on Subsocial</h1>
-  <p align="center">
-    <a href="#buildstatus">
-      <img alt="build status badge" src="https://img.shields.io/github/stars/dappforce/awesome-subsocial.svg">
-    </a>
-    <a href="https://github.com/dappforce/awesome-subsocial/graphs/contributors">
-      <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/dappforce/awesome-subsocial">
-    </a>    
-    <a href="http://makeapullrequest.com">
-      <img alt="pull requests welcome badge" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
-    </a>
-  </p>
-
-
-
 </div>
-
-## Awesome Apps Built on Subsocial
 
 Subsocial is a Substrate-based blockchain that allows anyone to launch their own decentralized censorship-resistant social network. The Subsocial SDK is a set of developments tools (methods, functions, and so on) that allows you to create your own social network on Subsocial.
 
@@ -33,9 +17,9 @@ For Dev Support:
 
 The following is a list of awesome apps built on top of the Subsocial protocol. 
 
-### Contents
+## Contents
 
-#### Social Networks
+### Social Networks
 - [Grill.chat](#grillchat)
 - [Frentube](#frentube)
 - [SubDot](#subdot)
@@ -45,22 +29,22 @@ The following is a list of awesome apps built on top of the Subsocial protocol.
 - [Polkadot Arena Blog](#polkadot-arena-blog)
 - [Polkaverse](#polkaverse)
 
-#### Social Protocols
+### Social Protocols
 - [AmazingGreen](#amazinggreen)
 - [AdMeta](#admeta)
 - [SOS Help App](#sos-help-app)
 
-#### Tools
+### Tools
 - [Sub.ID](#subid)
 - [Subsocial Ghost - A Gatsby Plugin](#subsocial-ghost---a-gatsby-plugin)
 - [Subtwit](#subtwit)
 - [ComposeR](#composer)
 - [Post4Ever](#post4ever)
 
-#### Partnerships
+### Partnerships
 - [AirLyft](#airlyft)
 
-#### Examples
+### Examples
 - [Twitter Dapp](#twitter-dapp)
 
 ## Social Networks
@@ -208,6 +192,5 @@ Source Code: [GitHub](https://github.com/dappforce/twitter-example)
 Built by: The Subsocial Team
 
 
-### Contributing
+## Contributing
 If you believe you have built something awesome on top of Subsocial, feel free to create a PR to add it to the list.
-
