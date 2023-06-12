@@ -50,7 +50,14 @@ The following is a list of awesome apps built on top of the Subsocial protocol.
 ## Social Networks
 
 ### [Grill.chat](https://grill.chat/)
-Chat anonymously on-chain without needing a crypto wallet, utilizing our censorship-resistant blockchain and app with anonymous logins.
+Chat anonymously on-chain without needing a crypto wallet, utilizing our censorship-resistant blockchain and app with anonymous logins. 
+Grill.chat can easily be integrated into other applications using our iframe plugin.
+
+Existing integrations:
+- [Sub.ID](https://sub.id/)
+- [Zeitgeist Prediction Markets App](https://app.zeitgeist.pm/)
+- [Polkadot Study](https://polkadot.study/)
+- [Polkassembly](https://polkassembly.network/#/launch-app)
 
 Source Code: [GitHub](https://github.com/dappforce/grillchat)
 
