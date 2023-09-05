@@ -58,6 +58,7 @@ Existing integrations:
 - [Zeitgeist Prediction Markets App](https://app.zeitgeist.pm/)
 - [Polkadot Study](https://polkadot.study/)
 - [Polkassembly](https://polkassembly.network/#/launch-app)
+- [Dotfinder](https://dotfinder.xyz/)
 
 Source Code: [GitHub](https://github.com/dappforce/grillchat)
 
